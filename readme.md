@@ -1,9 +1,7 @@
-Absolutely 👍 — here’s a clean, ready-to-use **`README.md`** you can copy directly into your Django project folder (e.g., `C:\Users\chand\Desktop\django\README.md`).
-
----
+Django Project Setup Guide
 
 ````markdown
-# 🧠 Django Project Setup Guide
+# Django Project Setup Guide
 
 This document explains how to set up and manage a **Python virtual environment** for a Django project.  
 Using a virtual environment ensures that each project has its **own isolated workspace**, preventing conflicts between package versions.
@@ -27,7 +25,7 @@ This creates a new virtual environment named `chandru`.
 ### ▶ For PowerShell (Windows)
 
 ```powershell
-.\chandru\Scripts\Activate.ps1
+.\chandru\Scripts\activate.ps1
 ```
 
 ### ▶ For Linux / macOS
@@ -130,7 +128,7 @@ You should see the Django welcome page 🎉
 
 ## 🧹 7. Deactivate the Environment
 
-When you’re done working:
+When you’re done working, run the following command in PowerShell, Bash, or CMD:
 
 ```powershell
 deactivate
