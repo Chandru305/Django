@@ -1,5 +1,3 @@
-Absolutely 👍 — here’s a clean, ready-to-use **`README.md`** you can copy directly into your Django project folder (e.g., `C:\Users\chand\Desktop\django\README.md`).
-
 ---
 
 ````markdown
