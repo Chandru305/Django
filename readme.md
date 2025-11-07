@@ -1,12 +1,8 @@
-Django Project Setup Guide
 
-````markdown
 # Django Project Setup Guide
 
 This document explains how to set up and manage a **Python virtual environment** for a Django project.  
 Using a virtual environment ensures that each project has its **own isolated workspace**, preventing conflicts between package versions.
-
----
 
 ## ⚙️ 1. Create a Virtual Environment
 
